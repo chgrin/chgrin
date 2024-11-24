@@ -7,7 +7,7 @@ I'm a frontend developer with over 5 years of experience
 - I'm really into to frontend development :computer:
 - So I believe that my work is helpful to other people :sun_with_face:
 - I like to play tennis :tennis: to get some fresh air, especially in the mountains of Armenia :mountain_snow:
-- :armenia: Yes, you're darn right, now I'm living in Armenia
+- Yes, you're darn right, now I'm living in Armenia :armenia:
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-chgrin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/chgrin)
 
 ---
