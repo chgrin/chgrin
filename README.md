@@ -3,4 +3,4 @@
 I am a frontend developer with over 5 years of experience
 
 - 🔭 I’m currently working on Keep Calm
-- 📫 How to reach me: :envelope:aleksandr.andreyko.fd@gmail.com
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/chgrin?style=flat&logo=Telegram&logoColor=white)](https://t.me/chgrin)
