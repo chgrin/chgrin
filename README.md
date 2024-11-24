@@ -30,4 +30,4 @@ I'm a frontend developer with over 5 years of experience
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chgrin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chgrin&layout=compact&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)
