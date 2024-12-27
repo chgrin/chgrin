@@ -1,4 +1,4 @@
-## Hi there 👋 <img src="https://komarev.com/ghpvc/?username=chgrin&style=flat-square&color=blue" alt=""/>
+## Hi there 👋
 
 ### :man_technologist: About Me
 I'm a frontend developer with over 5 years of experience
